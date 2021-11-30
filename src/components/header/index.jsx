@@ -18,9 +18,10 @@ const classes = {
 };
 
 const Header = ({ metadata = {}, noBlog = false }) => {
-  const twitter = get(metadata, 'author', false);
+  const resume = get(metadata, 'author', false);
   const github = get(metadata, 'github', false);
   const linkedin = get(metadata, 'linkedin', false);
+  const contact = get(metadata, 'contact', false);
 
 
   return (
@@ -58,13 +59,25 @@ const Header = ({ metadata = {}, noBlog = false }) => {
               </Link>
             </li>
           )}
-             {twitter && (
+             {resume && (
             <li className={classes.item}>
               <a
                 className={classes.link}
-                href={twitter}
+                href={resume}
               >
                 Download Resume
+              </a>
+            </li>
+          )}
+          {contact && (
+            <li className={classes.item}>
+              <a
+                className={classes.link}
+                href={contact}
+                target="_blank"
+                
+              >
+                Contact
               </a>
             </li>
           )}
