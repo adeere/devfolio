@@ -67,8 +67,8 @@ module.exports = {
       {
         name: 'Research Assistant for the Weather Forecast Research Team | May 2018 - October 2020',
         job: 'University of British Columbia',
-        description: 'Worked on near real-time verification of wildfire smoke forecasts against surface particulate matter observations using Python, R, and Git. Created webpage for these results using HTML and CSS....',
-        link: 'https://firesmoke.ca/',
+        description: 'Worked on a variety of projects including the near real-time verification of wildfire smoke forecasts against surface particulate matter observations, developing mutliple prototype websites, and cleaning weather instruments around Vancouver.',
+        link: 'https://www.eoas.ubc.ca/research/facilities/gdcfdc',
       },
       {
         name: 'Teaching Assistant for an Applied Meteorology Course | September 2019 - December 2020',
