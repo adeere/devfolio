@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Alison Deere | Atmospheric Scientist`,
     // Description that goes under your name in main bio
-    description: `Recent Atmospheric Science Undergrad Graduate based in Calgary, Canada.`,
+    description: `Recent Atmospheric Science Undergrad Graduate currently based in Calgary, Canada.`,
     // Optional: Github account URL
     github: `https://github.com/adeere`,
     // Optional: LinkedIn account URL
