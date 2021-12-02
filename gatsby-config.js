@@ -28,7 +28,7 @@ module.exports = {
       {
         name: 'Exploring sea-ice thickness within the CCCMA CANESM5 model',
         description:
-          'The write-up from my 2021 Directed Studies project where I analyzed decreasing sea-ice thickness in Arctic Canada. I compared future and past projections from two different models within the Coupled Model Intercomparison Project. All figures included within are created with python.',
+          'The write-up from my 2021 Directed Studies project where I analyzed decreasing sea-ice thickness in Arctic Canada. I compared future and past projections from two different models within the Coupled Model Intercomparison Project. All figures included within are created with Python.',
         link: 'https://drive.google.com/file/d/1H6URPo_01nOARO_2N8jQBGehF1ATX92Q/view?usp=sharing',
       },
       {
