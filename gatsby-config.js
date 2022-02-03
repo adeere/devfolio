@@ -19,10 +19,10 @@ module.exports = {
 
 
     // Content of the About Me section
-    about: `I have a four-year Atmospheric Science undergraduate degree from the University of British Columbia, completed in May of 2021. Throughout my degree I 
-    was fortunate to be able to take courses in many different subjects, including computer science, oceanography, climate science, geography, geographic information science, 
-    political science, and anthropology. I am currently looking for a environmental or climate science position where I can put my knowledge of atmospheric science, my experience 
-    coding, and all of the other skills I learned in my degree to a good use.`,
+    about: `I have a four-year Atmospheric Science undergraduate degree from the University of British Columbia, completed in May of 2021. Throughout this degree I 
+    was fortunate to take courses in many different subjects, including computer science, oceanography, climate science, geography, geographic information science, 
+    political science, and anthropology. I am currently looking for an environmental or climate science position where I can put my knowledge of atmospheric science, my experience 
+    coding, and all of the other skills I learned throughout my degree and work terms to a good use.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
