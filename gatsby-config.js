@@ -7,13 +7,13 @@ module.exports = {
     // Main Site Title
     title: `Alison Deere | Atmospheric Scientist`,
     // Description that goes under your name in main bio
-    description: `Recent Atmospheric Science Undergrad Graduate currently based in Calgary, Canada.`,
+    description: `Recent Atmospheric Science Undergrad Graduate based in Glasgow, UK.`,
     // Optional: Github account URL
     github: `https://github.com/adeere`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/alison-deere/`,
      // Resume
-     author: `https://adeere.github.io/adeere-web/documents/alisondeere_resume.pdf`,
+     //author: `https://adeere.github.io/adeere-web/documents/alisondeere_resume.pdf`,
      // Email
      contact: `mailto:alisonpdeere@gmail.com`,
 
