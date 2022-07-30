@@ -5,31 +5,32 @@ module.exports = {
     // Your Name
     name: 'Alison Deere',
     // Main Site Title
-    title: `Alison Deere | Atmospheric Scientist`,
+    title: `Alison Deere`,
     // Description that goes under your name in main bio
-    description: `Recent Atmospheric Science Undergrad Graduate based in Glasgow, UK.`,
+    description: `Based in Glasgow, UK`,
     // Optional: Github account URL
     github: `https://github.com/adeere`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/alison-deere/`,
      // Resume
-     //author: `https://adeere.github.io/adeere-web/documents/alisondeere_resume.pdf`,
+     author: `https://adeere.github.io/adeere-web/documents/alisondeere_CV.pdf`,
+  
      // Email
      contact: `mailto:alisonpdeere@gmail.com`,
 
 
     // Content of the About Me section
-    about: `I have a four-year Atmospheric Science undergraduate degree from the University of British Columbia, completed in May of 2021. Throughout this degree I 
-    was fortunate to take courses in many different subjects, including computer science, oceanography, climate science, geography, geographic information science, 
-    political science, and anthropology. I am currently looking for an environmental or climate science position where I can put my knowledge of atmospheric science, my experience 
-    coding, and all of the other skills I learned throughout my degree and work terms to a good use.`,
+    //about: `I am Canadian and moved to Glasgow in February of 2022. I am currently working in an administrative role and am looking for opportunities related to the field I studied 
+    //in my bachelor's degree - Atmospheric Science. Throughout the four-year interdisciplinary degree I was was fortunate to take courses in subjects such ascomputer seince, oceanography, climate science, 
+   // geographic information science, and political science. I am passionate about creating maps....`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
+    
     projects: [
       {
         name: 'Exploring sea-ice thickness within the CCCMA CANESM5 model',
         description:
           'The write-up from my 2021 Directed Studies project where I analyzed decreasing sea-ice thickness in Arctic Canada. I compared future and past projections from two different models within the Coupled Model Intercomparison Project. All figures included within are created with Python.',
-        link: 'https://drive.google.com/file/d/1H6URPo_01nOARO_2N8jQBGehF1ATX92Q/view?usp=sharing',
+        link: 'https://docs.google.com/viewer?url=https://adeere.github.io/adeere-web/documents/alisondeere_directedstudies.pdf',
       },
       {
         name: 'Map of Nightclub Spaces',
@@ -43,11 +44,18 @@ module.exports = {
           'A searchable map of rail stations in Norway, Sweden, and Finland. Created using HTML, CSS, Javascript, and Mapbox for a final-year geographic information science course, Research in Cartography.',
         link: 'https://adeere.github.io/adeere-web/Lab2/nordic_countries_rail.html',
       },
+
+    {
+    name: 'Latin American Population in the United States (2019)',
+    description:
+      'An interactive map of the distribution of Latin American population in the United States in 2019. Created using HTML, CSS, Javascript, and Mapbox for a final-year project looking at Migration between the US and Latin America.',
+    link: 'https://adeere.github.io/adeere-web/Map3/population_2019.html',
+  },
       {
-        name: 'Median Values of Dwellings in Vancouver',
+        name: 'ArcGIS Maps',
         description:
-          'An example of work that is part of a project looking at the impacts of a rising sea level due to climate change on communities in Vancouver. Created in 2020 with ArcGIS for a third-year geographic information science course, Advanced GIS. This map shows median household income, and was used for further analysis to determine whether there was a relationship between lower rent and median income, and lower elevations.  ',
-        link: 'https://drive.google.com/file/d/1lS8sfnYg_kSPyLQZ9iq6puzE3Hm10Lsg/view?usp=sharing',
+          'Two maps that I made in ArcGIS as part of a project looking at the impacts of a rising sea level due to climate change on communities in Vancouver. Created in 2020 with ArcGIS for an advanced geographic information science course, Advanced GIS. ',
+        link: 'https://docs.google.com/viewer?url=https://adeere.github.io/adeere-web/documents/arcGISmaps.pdf',
       },
     ],
     // Optional: List your experience, they must have `name`, 'job', and `description`. `link` is optional.
