@@ -27,12 +27,6 @@ module.exports = {
     
     projects: [
       {
-        name: 'Exploring sea-ice thickness within the CCCMA CANESM5 model',
-        description:
-          'The write-up from my 2021 Directed Studies project where I analyzed decreasing sea-ice thickness in Arctic Canada. I compared future and past projections from two different models within the Coupled Model Intercomparison Project. All figures included within are created with Python.',
-        link: 'https://docs.google.com/viewer?url=https://adeere.github.io/adeere-web/documents/alisondeere_directedstudies.pdf',
-      },
-      {
         name: 'Map of Nightclub Spaces',
         description:
           'An interactive map of nightclub spaces in London, UK that I created for a final-year geographic information science course, Research in Cartography. Created using HTML, CSS, Javascript, and Mapbox.',
@@ -56,6 +50,12 @@ module.exports = {
         description:
           'Two maps that I made in ArcGIS as part of a project looking at the impacts of a rising sea level due to climate change on communities in Vancouver. Created in 2020 with ArcGIS for an advanced geographic information science course, Advanced GIS. ',
         link: 'https://docs.google.com/viewer?url=https://adeere.github.io/adeere-web/documents/arcGISmaps.pdf',
+      },
+      {
+        name: 'Exploring sea-ice thickness within the CCCMA CANESM5 model',
+        description:
+          'The write-up from my 2021 Directed Studies project where I analyzed decreasing sea-ice thickness in Arctic Canada. I compared future and past projections from two different models within the Coupled Model Intercomparison Project. All figures included within are created with Python.',
+        link: 'https://docs.google.com/viewer?url=https://adeere.github.io/adeere-web/documents/alisondeere_directedstudies.pdf',
       },
     ],
     // Optional: List your experience, they must have `name`, 'job', and `description`. `link` is optional.
