@@ -48,8 +48,8 @@ module.exports = {
       {
         name: 'ArcGIS Maps',
         description:
-          'Two maps that I made in ArcGIS as part of a project looking at the impacts of a rising sea level due to climate change on communities in Vancouver. Created in 2020 with ArcGIS for an advanced geographic information science course, Advanced GIS. ',
-        link: 'https://docs.google.com/viewer?url=https://adeere.github.io/adeere-web/documents/arcGISmaps.pdf',
+          'The results from a project looking at the impacts of a rising sea level due to climate change on communities in Vancouver. I made the maps in 2020 with ArcGIS for an advanced geographic information science course, Advanced GIS. ',
+        link: 'https://adeere.github.io/results.html',
       },
       {
         name: 'Exploring sea-ice thickness within the CCCMA CANESM5 model',
