@@ -46,7 +46,7 @@ module.exports = {
     link: 'https://adeere.github.io/adeere-web/Map3/population_2019.html',
   },
       {
-        name: 'ArcGIS Maps',
+        name: 'ArcGIS Project',
         description:
           'The results from a project looking at the impacts of a rising sea level due to climate change on communities in Vancouver. I made the maps in 2020 with ArcGIS for an advanced geographic information science course, Advanced GIS. ',
         link: 'https://adeere.github.io/results.html',
