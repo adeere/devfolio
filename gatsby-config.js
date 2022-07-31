@@ -48,7 +48,7 @@ module.exports = {
       {
         name: 'ArcGIS Project',
         description:
-          'The results from a project looking at the impacts of a rising sea level due to climate change on communities in Vancouver. I made the maps in 2020 with ArcGIS for an advanced geographic information science course, Advanced GIS. ',
+          'The results from a project looking at the impacts of a rising sea level due to climate change on communities in Vancouver. I made the maps in 2020 with ArcGIS for an advanced geographic information science course. ',
         link: 'https://adeere.github.io/results.html',
       },
       {
