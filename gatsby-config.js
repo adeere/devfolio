@@ -14,7 +14,7 @@ module.exports = {
     linkedin: `https://www.linkedin.com/in/alison-deere/`,
      // Resume
      author: `https://adeere.github.io/adeere-web/documents/alisondeere_CV.pdf`,
-  
+
      // Email
      contact: `mailto:alisonpdeere@gmail.com`,
 
@@ -27,39 +27,52 @@ module.exports = {
     
     projects: [
       {
-        name: 'Map of Nightclub Spaces',
+        name: 'Web-based Map of Nightclub Spaces',
         description:
           'An interactive map of nightclub spaces in London, UK that I created for a final-year geographic information science course, Research in Cartography. Created using HTML, CSS, Javascript, and Mapbox.',
         link: 'https://adeere.github.io/adeere-web/Lab1/london_nightlife_spaces.html',
       },
       {
-        name: 'Rail Stations in Nordic Countries',
+        name: 'Web-based Interactive Map of Rail Stations in Nordic Countries',
         description:
-          'A searchable map of rail stations in Norway, Sweden, and Finland. Created using HTML, CSS, Javascript, and Mapbox for a final-year geographic information science course, Research in Cartography.',
+          'A searchable map of rail stations in Norway, Sweden, and Finland that I created for a final-year geographic information science course, Research in Cartography. Created using HTML, CSS, Javascript, and Mapbox.',
         link: 'https://adeere.github.io/adeere-web/Lab2/nordic_countries_rail.html',
       },
 
     {
-    name: 'Latin American Population in the United States (2019)',
+    name: 'Map of Latin American Population in the United States (2019)',
     description:
       'An interactive map of the distribution of Latin American population in the United States in 2019. Created using HTML, CSS, Javascript, and Mapbox for a final-year project looking at Migration between the US and Latin America.',
     link: 'https://adeere.github.io/adeere-web/Map3/population_2019.html',
   },
       {
-        name: 'ArcGIS Project',
+        name: 'ArcGIS Project: The Impact of a Rising Sea Level on Vancouver Communities (Results) ',
         description:
           'The results from a project looking at the impacts of a rising sea level due to climate change on communities in Vancouver. I made the maps in 2020 with ArcGIS for an advanced geographic information science course. ',
         link: 'https://adeere.github.io/results.html',
       },
       {
-        name: 'Exploring sea-ice thickness within the CCCMA CANESM5 model',
+        name: 'Exploring sea-ice thickness within the CCCMA CANESM5 model (Write-up)',
         description:
           'The write-up from my 2021 Directed Studies project where I analyzed decreasing sea-ice thickness in Arctic Canada. I compared future and past projections from two different models within the Coupled Model Intercomparison Project. All figures included within are created with Python.',
-        link: 'https://docs.google.com/viewer?url=https://adeere.github.io/adeere-web/documents/alisondeere_directedstudies.pdf',
+        link: 'https://drive.google.com/file/d/1H6URPo_01nOARO_2N8jQBGehF1ATX92Q/view?usp=sharing',
       },
+      {
+        name: 'Exploring sea-ice thickness within the CCCMA CANESM5 model (Code Repository)',
+        description:
+          'The github repository for the python code used for my 2021 Directed Studies Project.',
+        link: 'https://github.com/adeere/sea_ice_thickness',
+      },
+   
     ],
     // Optional: List your experience, they must have `name`, 'job', and `description`. `link` is optional.
     experience: [
+      {
+        name: 'Clinical Placements Administrator for MBChB (Medical Degree) | April 2022 - Present',
+        job: 'University of Glasgow',
+        description: 'Worked as part of the Undergraduate Medical School team to provide effective and proactive administrative support for clinical placements in Phase 4 of the MBChB programme. Assisted in the coordination of clinical teaching at hospital sites, on-campus, and online. Worked with large spreadsheets and data sheets in Excel and worked to automate several processes.',
+        link: '',
+      },
       {
         name: 'Community Outreach Coordinator | June 2021 - August 2021',
         job: 'CJSW 90.9 FM (Radio Station in Calgary, AB)',
@@ -75,13 +88,13 @@ module.exports = {
       {
         name: 'Research Assistant for the Weather Forecast Research Team | May 2018 - October 2020',
         job: 'University of British Columbia',
-        description: 'Worked on a variety of projects including the near real-time verification of wildfire smoke forecasts against surface particulate matter observations, developing mutliple prototype websites, and cleaning weather instruments around Vancouver.',
+        description: 'Worked on a variety of projects both collaboratively and autonomously such as creating a near real-time verification of wildfire smoke forecasts in British Columbia, developing prototype websites, creating course content, and running air pollution models. Used a variety of software including Python (pandas, Xarray), R, Git, HTML, CSS, Hugo, and markdown.',
         link: 'https://www.eoas.ubc.ca/research/facilities/gdcfdc',
       },
       {
         name: 'Teaching Assistant for an Applied Meteorology Course | September 2019 - December 2020',
         job: 'University of British Columbia',
-        description: 'Marked final exams and student quizzes for ATSC 113 Applied Meteorology: Weather for Flying, Sailing & Snow Sports, responded to students’ emails in a timely manner and invigilated final exams both in person and online for this and several other courses in the Earth, Ocean, and Atmospheric Science department.',
+        description: 'Marked final exams and student quizzes for ATSC 113 Applied Meteorology: Weather for Flying, Sailing & Snow Sports, responded to students’ emails in a timely manner and invigilated final exams both in person and online.',
         link: 'https://www.eoas.ubc.ca/courses/atsc113/',
       },
     ],
@@ -90,11 +103,11 @@ module.exports = {
       {
         name: 'Proficient in:',
         description:
-          'Python, HTML, MATLAB, Microsoft Office Suite, Excel',
+          'Python, HTML, CSS, MATLAB, Microsoft Office Suite',
       },
       {
         name: 'Experience with:',
-        description: 'R, CSS, JavaScript, ArcGIS, QGIS, Git, Bash Scripting, Markdown, Adobe Dreamweaver, Camtasia',
+        description: 'R, JavaScript, ArcGIS, QGIS, Git, Bash Scripting, markdown, Adobe Dreamweaver, Camtasia',
       },
     
     ],
