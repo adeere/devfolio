@@ -76,8 +76,7 @@ module.exports = {
       {
         name: 'MBChB Clinical Placements Administrator/Year 4 and 5 Administrator | April 2022 - March 2023',
         job: 'University of Glasgow',
-        description: 'Worked as part of the Undergraduate Medical School team to provide effective and proactive administrative support for clinical placements in Phase 4 of the MBChB programme. Assisted in the coordination of clinical teaching at hospital sites, on-campus, and online. Worked with large spreadsheets and data sheets in Excel and worked to automate several processes. Transitioned to a new role in November 2022, becoming the point of contact for 600 Phase 4 medical students, academic staff, consultants, and hospital staff. Allocated students to hospital sites across Scotland.
-',
+        description: 'Worked as part of the Undergraduate Medical School team to provide effective and proactive administrative support for clinical placements in Phase 4 of the MBChB programme. Assisted in the coordination of clinical teaching at hospital sites, on-campus, and online. Worked with large spreadsheets and data sheets in Excel and worked to automate several processes. Transitioned to a new role in November 2022, becoming the point of contact for 600 Phase 4 medical students, academic staff, consultants, and hospital staff. Allocated students to hospital sites across Scotland.',
         link: '',
       },
       {
