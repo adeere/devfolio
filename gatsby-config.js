@@ -13,7 +13,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/alison-deere/`,
      // Resume
-     author: `https://adeere.github.io/adeere-web/documents/alisondeere_CV_2023.pdf`,
+     author: `https://adeere.github.io/adeere-web/documents/alisondeere_CV.pdf`,
 
      // Email
      contact: `mailto:alisonpdeere@gmail.com`,
