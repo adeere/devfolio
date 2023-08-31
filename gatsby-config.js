@@ -13,7 +13,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/alison-deere/`,
      // Resume
-     author: `https://adeere.github.io/adeere-web/documents/alisondeere_CV.pdf`,
+     author: `https://adeere.github.io/adeere-web/documents/alisondeere_CV_2023.pdf`,
 
      // Email
      contact: `mailto:alisonpdeere@gmail.com`,
@@ -68,9 +68,16 @@ module.exports = {
     // Optional: List your experience, they must have `name`, 'job', and `description`. `link` is optional.
     experience: [
       {
-        name: 'Clinical Placements Administrator for MBChB (Medical Degree) | April 2022 - Present',
+        name: 'Data Analyst | March 2023 - Present',
+        job: 'RMSI',
+        description: 'I am currently working on a contract for Scottish Power Network Planning and Regulation as part of the Network Data Improvement Team. Using strong analytical and technical skills, I utilise advanced Excel functions and features to effectively summarise and visualise complex data sets. I independently generate and oversee team members’ weekly reports that provide essential business insights to stakeholders, ensuring accuracy and presenting information in a clear and concise manner. As part of the Data Team, I oversee and manage workstreams focused on updating Scottish Power’s electrical distribution network. Additionally, I have been responsible for training a newly onboarded staff member in data analysis procedures, Excel proficiency, and report generation.',
+        link: '',
+      },
+      {
+        name: 'MBChB Clinical Placements Administrator/Year 4 and 5 Administrator | April 2022 - March 2023',
         job: 'University of Glasgow',
-        description: 'Worked as part of the Undergraduate Medical School team to provide effective and proactive administrative support for clinical placements in Phase 4 of the MBChB programme. Assisted in the coordination of clinical teaching at hospital sites, on-campus, and online. Worked with large spreadsheets and data sheets in Excel and worked to automate several processes.',
+        description: 'Worked as part of the Undergraduate Medical School team to provide effective and proactive administrative support for clinical placements in Phase 4 of the MBChB programme. Assisted in the coordination of clinical teaching at hospital sites, on-campus, and online. Worked with large spreadsheets and data sheets in Excel and worked to automate several processes. Transitioned to a new role in November 2022, becoming the point of contact for 600 Phase 4 medical students, academic staff, consultants, and hospital staff. Allocated students to hospital sites across Scotland.
+',
         link: '',
       },
       {
