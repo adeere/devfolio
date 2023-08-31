@@ -108,15 +108,10 @@ module.exports = {
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Proficient in:',
-        description:
-          'Python, HTML, CSS, MATLAB, Microsoft Office Suite',
-      },
-      {
         name: 'Experience with:',
-        description: 'R, JavaScript, ArcGIS, QGIS, Git, Bash Scripting, markdown, Adobe Dreamweaver, Camtasia',
+        description:
+          'Python, HTML, MATLAB, SAP, Advanced in MS Excel (including PivotTables, VLOOKUP, and Power Query), R, and ArcGIS',
       },
-    
     ],
   },
   plugins: [
